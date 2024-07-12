@@ -1,0 +1,1 @@
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/high_availability_add-on_administration/s1-lvmsetupnfs-haaa#s1-LVMsetupnfs-HAAA
